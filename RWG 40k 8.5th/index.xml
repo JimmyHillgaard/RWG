@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataIndex battleScribeVersion="2.01" name="RWG Warhammer 40k 8.5th" indexUrl="https://filedn.com/lzdz32zA9YvjCPJMntkdc94/index.bsi" xmlns="http://www.battlescribe.net/schema/dataIndexSchema">
+  <repositoryUrls/>
+  <dataIndexEntries>
+    <dataIndexEntry filePath="Warhammer_40,000_8_5th_Edition.gstz" dataType="gamesystem" dataId="28ec-711c-d87f-3aeb" dataName="Warhammer 40,000 8.5th Edition" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Aeldari - Craftworlds.catz" dataType="catalogue" dataId="30b2-6f64-b85e-b4dc" dataName="Aeldari - Craftworlds" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Adeptus Ministorum.catz" dataType="catalogue" dataId="d124-b283-2ff7-beae" dataName="Imperium - Adeptus Ministorum" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - FW Adeptus Astartes.catz" dataType="catalogue" dataId="dab7-e076-dd5e-d8aa" dataName="Imperium - FW Adeptus Astartes" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Space Marines.catz" dataType="catalogue" dataId="846d-3c14-21fc-369f" dataName="Imperium - Space Marines" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="T&apos;au Empire.catz" dataType="catalogue" dataId="c0bb-c0cd-a715-99c6" dataName="T&apos;au Empire" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Chaos - Daemons.catz" dataType="catalogue" dataId="422a-a40e-3f7c-e8b3" dataName="Chaos - Daemons" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Chaos - Death Guard.catz" dataType="catalogue" dataId="ce57-cc1c-37cb-cb71" dataName="Chaos - Death Guard" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Astra Militarum.catz" dataType="catalogue" dataId="53e9d88f-7463-8c27-fe67-e1a0d1ed0287" dataName="Imperium - Astra Militarum" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Blood Angels.catz" dataType="catalogue" dataId="eb0f-c144-a282-8bdc" dataName="Imperium - Blood Angels" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Necrons.catz" dataType="catalogue" dataId="61c6-c8c5-a304-ff5f" dataName="Necrons" dataBattleScribeVersion="2.01" dataRevision="2"/>
+    <dataIndexEntry filePath="Chaos - Chaos Space Marines.catz" dataType="catalogue" dataId="cb54-c035-5759-7697" dataName="Chaos - Chaos Space Marines" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Imperium - Space Wolves.catz" dataType="catalogue" dataId="24b6-2b46-0063-2867" dataName="Imperium - Space Wolves" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Orks.catz" dataType="catalogue" dataId="11b5-77b9-31bf-7b74" dataName="Orks" dataBattleScribeVersion="2.01" dataRevision="1"/>
+    <dataIndexEntry filePath="Chaos - FW Heretic Astartes.catz" dataType="catalogue" dataId="2128-f196-8f1c-b352" dataName="Chaos - FW Heretic Astartes" dataBattleScribeVersion="2.01" dataRevision="1"/>
+  </dataIndexEntries>
+</dataIndex>
